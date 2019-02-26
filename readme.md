@@ -12,4 +12,5 @@
 ## in this function USE YOUE OWN CREDINTIALS 
 $conn = mysqli_connect("YOUR_HOST", "DB_USERNAME", "DB_PASSWORD", "DB_NAME") ;
 
-## by the way I am using this database from this [link](http://www.mysqltutorial.org/mysql-sample-database.aspx)
+> by the way I am using this database from this [link](http://www.mysqltutorial.org/mysql-sample-database.aspx)
+
