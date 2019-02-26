@@ -54,7 +54,7 @@
 <!-- End CDN -->
 
 <?php 
-    $conn = mysqli_connect("localhost", "root", "", "classicmodels") ;
+    $conn = mysqli_connect("YOUR_HOST", "DB_USERNAME", "DB_PASSWORD", "DB_NAME") ;
     $query = "select * from employees"; 
     $result = mysqli_query($conn, $query); 
 ?>
